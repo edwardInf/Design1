@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BuenasPracticas</string>
+    <string name="usuario">Usuario</string>
+    <string name="contra">Contra</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="twitter">Twitter</string>
+
+    <string name="btnIngre">INGRESAR</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BuenasPracticas</string>
+    <string name="btnIngre">INGRESAR</string>
+    <string name="contra">Contraseña</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="twitter">Twitter</string>
+    <string name="usuario">Usuario</string>
+</resources>
